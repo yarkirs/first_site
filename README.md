@@ -1,5 +1,6 @@
-#Верстка из PSD
-[1.Штукатурка стен](https://yarkirs.github.io/shtuka/) - 
->(Адаптивный, кроссбраузерный, анимированный, рабочие формы отправки на Email(на гит не работает))
->Использовал: HTML, CSS,  JS, bootstrap, Less, jquery, Ajax, PHP, BEM
->Библиотеки: animate.css, slick-slyder,fotorama, wow.js, phpmailer
+# Верстка из PSD
+
+[Штукатурка стен](https://yarkirs.github.io/wall_plaster/) - 
+(Адаптивный, кроссбраузерный, анимированный, формы отправки на Email(вырезаны))
+*Использовал*: HTML, CSS,  JS, bootstrap, Less, jquery, Ajax, PHP, BEM
+*Библиотеки*: animate.css, slick-slyder,fotorama, wow.js, phpmailer

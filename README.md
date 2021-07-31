@@ -4,6 +4,5 @@
 
 (Адаптивный, кроссбраузерный, анимированный, формы отправки с проверкой на валидацию, оптимизированная загрузка, код проверен на валидность)
 
-*Использовал*: HTML, CSS,  JS, bootstrap, Less, jquery, Ajax, PHP, BEM
-
+*Использовал*: HTML, CSS,  JS, bootstrap, Less, jquery, Ajax, PHP
 *Библиотеки*: animate.css, slick-slyder,fotorama, wow.js, phpmailer
